@@ -173,7 +173,7 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("https://example.com", "_blank");
+                  window.open("https://thesportscave.io/", "_blank");
                 }}
                 style={{
                   margin: "5px",
