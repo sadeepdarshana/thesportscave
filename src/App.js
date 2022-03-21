@@ -118,12 +118,12 @@ function App() {
 
         <s.TextTitle
             style={{
-              paddingTop: '12vh',
+              paddingTop: '4vh',
               textAlign: "center",
               fontSize: 80,
               fontWeight: "bold",
               color: "#730c31",
-              minHeight: '30vh'
+              minHeight: '24vh'
             }}
         >
           The Sports Cave
